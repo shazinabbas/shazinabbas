@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there 👋, my name is Shazin
+### Hi there 👋, my name is Shazin
 ![](https://github.com/shazinabbas/shazinabbas/blob/main/2GU.gif)
 
 
