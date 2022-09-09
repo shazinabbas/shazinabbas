@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Shazin
-![](https://github.com/shazinabbas/shazinabbas/blob/main/2GU.gif)
+![](https://github.com/shazinabbas/shazinabbas/blob/main/Untitled.webm)
 
 
 
