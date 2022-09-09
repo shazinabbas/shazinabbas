@@ -16,7 +16,7 @@
 
 
 <p align = left>
-<img src="https://github-readme-stats.vercel.app/api?username=shazinabbas&show_icons=true&count_private=true"  width="350" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=shazinabbas&show_icons=true&count_private=true"      width="350" height="200">
 <!p>
 <x align=right>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazinabbas" width="350" height="200">
