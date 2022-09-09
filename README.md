@@ -16,9 +16,9 @@
 
 
 <p align = right>
-<img src="https://github-readme-stats.vercel.app/api?username=shazinabbas&show_icons=true&count_private=true"  width="500" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=shazinabbas&show_icons=true&count_private=true"  width="300" height="200">
 <!p>
 <x align=left>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shazinabbas" width="500" height="200">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shazinabbas" width="300" height="200">
 </x>
 
