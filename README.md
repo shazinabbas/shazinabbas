@@ -1,6 +1,4 @@
 
-
-
 ![](https://github.com/shazinabbas/shazinabbas/blob/main/ezgif.com-gif-maker%20(4).gif)
 
 [![@shazinabbas's Holopin board](https://holopin.io/api/user/board?user=shazinabbas)](https://holopin.io/@shazinabbas)
