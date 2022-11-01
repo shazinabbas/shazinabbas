@@ -1,4 +1,6 @@
-![](https://github.com/shazinabbas/shazinabbas/blob/main/ezgif.com-gif-maker%20(4).gif)
+
+<img src ="https://github.com/shazinabbas/shazinabbas/blob/main/ezgif.com-gif-maker%20(4).gif">
+
 
 [![@shazinabbas's Holopin board](https://holopin.io/api/user/board?user=shazinabbas)](https://holopin.io/@shazinabbas)
 
@@ -11,4 +13,3 @@
 <x align=right>      
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazinabbas" width="370" height="220">
 </x>
-
