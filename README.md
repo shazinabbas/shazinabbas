@@ -20,5 +20,3 @@
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shazinabbas&show_icons=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shazinabbas)
